@@ -1,8 +1,6 @@
-# project-Aryan Agnihotri & Joss White 
+## WeChat Project Proposal 
 
-## 360 Project Proposal (Milestone 1)
-
-Members: Aryan Agnihotri and Joss White
+Members: Joss White and Aryan Agnihotr 
 
 Project Description and Details
 
